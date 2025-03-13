@@ -2,4 +2,6 @@ Welcome to Systemberg! This website is a new blog that I, [Alex Seifert](https:/
 
 Hopefully, you’ll find it interesting and informative, even if you disagree with some of my views on what is going on.
 
+All posts earlier than this one are imported from my personal blog, [Alex’s Notebook](https://blog.alexseifert.com), and were added to add some additional content that I thought would fit this blog.
+
 You can subscribe to the [RSS feed](https://www.systemberg.com/feed) or find me on [Mastodon](https://mastodon.social/@alexseifert).
