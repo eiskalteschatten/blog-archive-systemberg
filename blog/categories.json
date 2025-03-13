@@ -70,5 +70,11 @@
     "name": "Writing",
     "description": "",
     "wordpressId": 13
+  },
+  {
+    "id": "politics",
+    "name": "Politics",
+    "description": "",
+    "wordpressId": 130
   }
 ]
