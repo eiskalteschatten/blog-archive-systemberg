@@ -5,6 +5,7 @@
   "authors": [
     "alex"
   ],
+  "titleImage": "mozilla.jpg",
   "excerpt": "Mozilla has recently had a lot of blowback about several recent changes they&#8217;ve made to Firefox. There was a reaction recently from a member of the Thunderbird team.\n",
   "categories": [
     "privacy-tracking",
@@ -16,6 +17,6 @@
     "Thunderbird"
   ],
   "publishedDate": "2025-03-13T09:18:02",
-  "updatedAt": "2025-03-13T22:30:00",
+  "updatedAt": "2025-03-24T12:54:29",
   "wordpressId": 8175
 }
