@@ -1,0 +1,16 @@
+{
+  "id": "hello-world",
+  "title": "Getting Started",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "excerpt": "Systemberg is a blog that I, Alex Seifert, will use to post commentary about whatever he finds that catches my interest.\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [],
+  "publishedDate": "2025-06-20T20:59:39",
+  "updatedAt": "2025-06-20T23:52:56",
+  "wordpressId": 1
+}

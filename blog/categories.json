@@ -1,0 +1,20 @@
+[
+  {
+    "id": "general",
+    "name": "General",
+    "description": "",
+    "wordpressId": 1
+  },
+  {
+    "id": "politics",
+    "name": "Politics",
+    "description": "",
+    "wordpressId": 6
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "description": "",
+    "wordpressId": 8
+  }
+]
